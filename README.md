@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AI Voice Agents Challenge - Starter Repository
 
 Welcome to the **AI Voice Agents Challenge** by [murf.ai](https://murf.ai)!
@@ -232,3 +233,6 @@ Built for the AI Voice Agents Challenge by murf.ai
 =======
 # murf-task-7
 >>>>>>> f98dcea58a9d5b1b85c3918e2861ad05b6e942a3
+=======
+# murf-task-8
+>>>>>>> d8de288e1618d7dc8d27f4ce1496d8c78c8cfbad
